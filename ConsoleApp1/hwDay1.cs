@@ -21,6 +21,17 @@ namespace ConsoleApp1
             Console.WriteLine("Math.Equals = " + Math.Equals(x,3));
             Console.WriteLine("Math.Max = " + Math.Max(x, y));
         }
-
+        public void stringClass(String s1, String s2)
+        {
+            Console.WriteLine("s1 = " + s1);
+            Console.WriteLine("s2 = " + s2);
+            Console.WriteLine("s1 Length = " + s1.Length);
+            Console.WriteLine("s2 Length = " + s2.Length);
+            Console.WriteLine("String.Equals = " + String.Equals(s1,s2));
+            Console.WriteLine("String.Concat = " + String.Concat(s1,s2));
+            Console.WriteLine("String1.Intern = " + String.Intern(s1));
+            Console.WriteLine("String2.Intern = " + String.Intern(s2));
+            Console.WriteLine("s1.ToUpper = " + s1.ToUpper());
+        }
     }
 }
