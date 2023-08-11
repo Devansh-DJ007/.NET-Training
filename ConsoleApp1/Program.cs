@@ -16,5 +16,6 @@ internal class Program
         hwDay1 h1 = new hwDay1();
         h1.mathClass(4,3);
         h1.stringClass("Devansh", "Jain");
+        h1.dateTime();
     }
 }

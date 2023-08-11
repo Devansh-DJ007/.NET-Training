@@ -33,5 +33,14 @@ namespace ConsoleApp1
             Console.WriteLine("String2.Intern = " + String.Intern(s2));
             Console.WriteLine("s1.ToUpper = " + s1.ToUpper());
         }
+
+        public void dateTime()
+        {
+            DateTime db = DateTime.Now;
+            Console.WriteLine("Current Date Time is = " + db);
+            Console.WriteLine("Current Day = " + db.Day);
+            Console.WriteLine("Current Month = " + db.Month);
+            Console.WriteLine("Current Year = " + db.Year);
+        }
     }
 }
