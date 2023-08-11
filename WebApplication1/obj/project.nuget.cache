@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHYW6eyR13b9t0PyGvit99rAp14Tzs/WLKsmHOAjSSf4PqdaChciUOpG+ebWgLd5ul8oMLLa2ywtI0NH4OALbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devansh.jain\\Desktop\\Training\\.NET Tutorial\\Training\\WebApplication1\\WebApplication1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devansh.jain\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
