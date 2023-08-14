@@ -1,0 +1,14 @@
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\bin\Debug\net7.0\Day2Assignment1.exe
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\bin\Debug\net7.0\Day2Assignment1.deps.json
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\bin\Debug\net7.0\Day2Assignment1.runtimeconfig.json
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\bin\Debug\net7.0\Day2Assignment1.dll
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\bin\Debug\net7.0\Day2Assignment1.pdb
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\Day2Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\Day2Assignment1.AssemblyInfoInputs.cache
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\Day2Assignment1.AssemblyInfo.cs
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\Day2Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\Day2Assignment1.dll
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\refint\Day2Assignment1.dll
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\Day2Assignment1.pdb
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\Day2Assignment1.genruntimeconfig.cache
+C:\Users\devansh.jain\Desktop\Training\.NET Tutorial\Training\Day2Assignment1\obj\Debug\net7.0\ref\Day2Assignment1.dll
